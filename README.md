@@ -1,6 +1,6 @@
 # Reproduction repo for issue with renovate+bundler+git-tags issue
 
-This repository is a reproduction of an issue with renovate, bundler and git tags.
+This repository is a reproduction of an issue with renovate, bundler and git tags. (see https://github.com/renovatebot/renovate/discussions/33005)
 
 When renovate finds a git dependency in `Gemfile` and finds an update for it, the tag is applied wrongly.
 
